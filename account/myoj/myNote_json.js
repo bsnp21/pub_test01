@@ -1,7 +1,7 @@
 var _Max_struct={
     "Gen": {
         "1": {
-            "1": "<ol><li>abc bb loc-cal</li></ol>",
+            "1": "<ol><li>abc bb loc-cal--tst</li></ol>",
             "2": "",
             "3": "",
             "4": "",
