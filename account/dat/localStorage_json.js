@@ -1,5 +1,6 @@
 var localStorage = {
     "#MemoryVerse": [
+        "Gen29:2",
         "Gen29:7",
         "Rom3:31",
         "Psm8:6",
