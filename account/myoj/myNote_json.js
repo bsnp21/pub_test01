@@ -26841,7 +26841,7 @@ var _Max_struct={
             "36": "",
             "37": "",
             "38": "",
-            "39": "<ol><li>The context of <span style=\"color:#27ae60;\">green</span> grass is identical to the one in Psa23:3. <a href=\"https://www.youtube.com/watch?v=euMXI23RNCQ\">CalebClick</a><a href=\"https://www.youtube.com/embed/euMXI23RNCQ?start=2240&autoplay=1&end=2250\">12/27/20</a></li></ol>",
+            "39": "<ol><li>The context of <span style=\"color:#27ae60;\">green</span> grass is identical to in Psa23:2. He is here. <a href=\"https://www.youtube.com/watch?v=euMXI23RNCQ\">CalebClick</a><a href=\"https://www.youtube.com/embed/euMXI23RNCQ?start=2240&autoplay=1&end=2250\">12/27/20</a></li></ol>",
             "40": "",
             "41": "",
             "42": "",
